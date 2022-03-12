@@ -1,0 +1,16 @@
+définis :
+pour les article définis en albanais, ils sont mis sous forme de suffixe, c'est celui ci qui vas "définir" le genre et le nombre d'une entité
+
+suffixe pour "La" : -a
+suffixe pour "Le" : -i
+suffixe pour "Les" : -të
+
+indéfinis:
+pour les articles indéfinis singulier c'est très simple, un seul déterminant pour un et une:
+
+un = një
+une = një
+
+pour le pluriel vous pouvez utilisez les nombres ou ajouté le suffixe du pluriel "-të" un peu comme en anglais
+
+partififs :
